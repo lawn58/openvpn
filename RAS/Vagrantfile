@@ -117,5 +117,4 @@ systemctl status openvpn@server
 
   end
   
-  
 end
