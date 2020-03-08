@@ -36,8 +36,8 @@ tap
      tun
 
 ------------------------------------------------------------
- Client connecting to 10.10.10.1, TCP port 5001
- TCP window size: 94.5 KByte (default)
+       Client connecting to 10.10.10.1, TCP port 5001
+       TCP window size: 94.5 KByte (default)
 ------------------------------------------------------------
        [  5] local 10.10.10.2 port 51690 connected with 10.10.10.1 port 5001
        [  3] local 10.10.10.2 port 51686 connected with 10.10.10.1 port 5001
